@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/vivek/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/vivek/Desktop/N0MiddleMen/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_ecd030f851fe363b37d6064b54b6cd388ff1e7ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vivek/.android/build-cache/6832e8b1c763438a8f1c63f64bf5bb5b59c43d7e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/vivek/Desktop/N0MiddleMen/app/build/intermediates/pre-dexed/debug/classes_ef1dffe389b021e6197da109216315e123257598.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vivek/.android/build-cache/f9967c692904d571e3910ab283eb36872f1d17e7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/vivek/Desktop/N0MiddleMen/app/build/intermediates/pre-dexed/debug/classes_0cfdd7f9a99a996913a76f62c0cadea7d3c5f1b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vivek/.android/build-cache/28cfeaab3acfc9c0d22eefd4a54f708b6eaabc02/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/vivek/Desktop/N0MiddleMen/app/build/intermediates/pre-dexed/debug/classes_411c4655e462d500160ba15619abfd3f693eb0f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vivek/.android/build-cache/6f88798a29e7c267237342c3cf571ac392e5c957/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/vivek/Desktop/N0MiddleMen/app/build/intermediates/pre-dexed/debug/classes_13739ab6c3a6b8fe73cbd8695b5a2185463ad07a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vivek/.android/build-cache/33150e2b7c3be07cf9e9f758e77878394dd417df/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/vivek/Desktop/N0MiddleMen/app/build/intermediates/pre-dexed/debug/classes_ea256132b599cacbd2d186ca10cc7849cba48235.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vivek/.android/build-cache/34b02d22ef3f09719aec314b351b85fa50d95710/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/vivek/Desktop/N0MiddleMen/app/build/intermediates/pre-dexed/debug/classes_d63043f0d41fe32907b6ce33b32a3f0d5365c443.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vivek/.android/build-cache/3449d4b607c28a57cd0c4663e35ca4f1030ef72c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/vivek/Desktop/N0MiddleMen/app/build/intermediates/pre-dexed/debug/classes_9a81db8a42d2b31c20b11b857a771d272494b561.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vivek/.android/build-cache/a9f3e38bf20a51b4af4eb234398e19ea773904c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/vivek/Desktop/N0MiddleMen/app/build/intermediates/pre-dexed/debug/classes_8818e683a0f8debdb79521da60dcd6fec0c0e9b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vivek/.android/build-cache/e1fba31fd171be76b90fb88455245a3c99afb2ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/vivek/Desktop/N0MiddleMen/app/build/intermediates/pre-dexed/debug/classes_c81106586675a3ffe915bd7820cc73dc56295833.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vivek/.android/build-cache/aedf2691b604b34eb5b6a475a63d9ec3e4970dcb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/vivek/Desktop/N0MiddleMen/app/build/intermediates/pre-dexed/debug/classes_ac0808c5ec3ad0f09d91cce5b41e6e25acd05a60.jar" />
+    </item>
+
+</items>

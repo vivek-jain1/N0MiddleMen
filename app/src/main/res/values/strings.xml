@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">N0MiddleMen</string>
+    <array name="district">
+        <item>Adilabad</item>
+        <item>Bhadradri Kothagudem</item>
+        <item>Hyderabad</item>
+        <item>Jagtial</item>
+        <item>Jangaon</item>
+        <item>Jayashankar Bhupalapally</item>
+        <item>Jogulamba Gadwal</item>
+        <item>Kamareddy</item>
+        <item>Karimnagar</item>
+        <item>Khammam</item>
+        <item>Kumarambheem Asifabad</item>
+        <item>Mahabubabad</item>
+        <item>Mahabubnagar</item>
+        <item>Mancherial</item>
+        <item>Medak</item>
+        <item>Medchal–Malkajgiri</item>
+        <item>Nagarkurnool</item>
+        <item>Nalgonda</item>
+        <item>Nirmal</item>
+        <item>Nizamabad</item>
+        <item>Peddapalli</item>
+        <item>Rajanna Sircilla</item>
+        <item>Ranga Reddy</item>
+        <item>Sangareddy</item>
+        <item>Siddipet</item>
+        <item>Suryapet</item>
+        <item>Vikarabad</item>
+        <item>Wanaparthy</item>
+        <item>Warangal Rural</item>
+        <item>Warangal Urban</item>
+        <item>Yadadri Bhuvanagiri</item>
+    </array>
+
+    <array name="Settings">
+        <item>Edit Profile</item>
+        <item>Logout</item>
+        <item>FAQ</item>
+    </array>
+
+    <array name="crops">
+        <item>Rice</item>
+        <item>Sugarcane</item>
+        <item>Wheat</item>
+        <item>Maize</item>
+        <item>Tobacco</item>
+    </array>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <array name="crop_image">
+        <item>@drawable/maize</item>
+        <item>@drawable/rice</item>
+        <item>@drawable/sugarcane</item>
+        <item>@drawable/tobacco</item>
+        <item>@drawable/wheat</item>
+    </array>
+</resources>
